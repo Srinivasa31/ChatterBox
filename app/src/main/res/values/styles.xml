@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/orangish</item>
+        <item name="colorPrimaryDark">@color/orangish</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MenuStyle" parent="Theme.AppCompat.Light">
+        <item name="android:background">@color/white</item>
+        <item name="android:textColor">@color/darkGrey</item>
+    </style>
+    <style name="AlertDialog" parent="Base.Theme.AppCompat.Light.Dialog">
+
+    </style>
+
+
+</resources>
