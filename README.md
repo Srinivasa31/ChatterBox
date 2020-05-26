@@ -1,6 +1,6 @@
 ## ChatterBox
 
-
+A basic android chatting application using firebase
 
 ### Support or Contact
 
